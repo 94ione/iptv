@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+BNC | 台視新聞台HD 24 小時線上直播 |  |
+https://www.youtube.com/watch?v=xL0ch83RAK8

@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+BNC | SJTV信吉衛視HD_線上Live直播 |  |
+https://www.youtube.com/watch?v=VD8dVG1DF1s

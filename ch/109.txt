@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+BNC | 正德電視台-HD 24小時直播 LIVE TV |  |
+https://www.youtube.com/watch?v=CHDb5D0DCkw

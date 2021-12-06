@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+BNC | 國會頻道１ |  |
+https://www.youtube.com/watch?v=jRsyBLhot6E
