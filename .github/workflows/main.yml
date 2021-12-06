@@ -33,70 +33,244 @@ jobs:
       # Runs a set of commands using the runners shell 
       - name: config
         run: |
-          git config --global user.email "gohhh40163@gmail.com"
-          git config --global user.name "GOH3124"
+          git config --global user.email "94ionemv@gmail.com"
+          git config --global user.name "94ione"
       
 
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch1.sh
-          ./sh/ch1.sh
+          chmod +x sh/09.sh
+          ./sh/09.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch2.sh
-          ./sh/ch2.sh
+          chmod +x sh/13.sh
+          ./sh/13.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch3.sh
-          ./sh/ch3.sh
+          chmod +x sh/14.sh
+          ./sh/14.sh
      
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch4.sh
-          ./sh/ch4.sh
+          chmod +x sh/35.sh
+          ./sh/35.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch5.sh
-          ./sh/ch5.sh
+          chmod +x sh/46.sh
+          ./sh/46.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch6.sh
-          ./sh/ch6.sh
+          chmod +x sh/47.sh
+          ./sh/47.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/48.sh
+          ./sh/48.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/51.sh
+          ./sh/51.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/52.sh
+          ./sh/52.sh
+                
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/53.sh
+          ./sh/53.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/54.sh
+          ./sh/54.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/55.sh
+          ./sh/55.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/56.sh
+          ./sh/56.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/57.sh
+          ./sh/57.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/59.sh
+          ./sh/59.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/60.sh
+          ./sh/60.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/86.sh
+          ./sh/86.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/89.sh
+          ./sh/89.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/92.sh
+          ./sh/92.sh
+                
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/94.sh
+          ./sh/94.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/98.sh
+          ./sh/98.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/102.sh
+          ./sh/102.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/104.sh
+          ./sh/104.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/106.sh
+          ./sh/106.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/109.sh
+          ./sh/109.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/110.sh
+          ./sh/110.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/118.sh
+          ./sh/118.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/120.sh
+          ./sh/120.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/123.sh
+          ./sh/123.sh
+                
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/124.sh
+          ./sh/124.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/125.sh
+          ./sh/125.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/131.sh
+          ./sh/131.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/132.sh
+          ./sh/132.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/154.sh
+          ./sh/154.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/155.sh
+          ./sh/155.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/159.sh
+          ./sh/159.sh
 
       - name: Main
         run: |
           pwd
           chmod +x sh/ch7.sh
-          ./sh/ch7.sh
+          ./sh/297.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch8.sh
-          ./sh/ch8.sh
+          chmod +x sh/950.sh
+          ./sh/950.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch9.sh
-          ./sh/ch9.sh
-                
-      - name: Main
-        run: |
-          pwd
-          chmod +x sh/ch10.sh
-          ./sh/ch10.sh
-          
+          chmod +x sh/951.sh
+          ./sh/951.sh
+                       
       - name: git add
         run: |
           git add -A
