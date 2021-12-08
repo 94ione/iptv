@@ -208,6 +208,13 @@ jobs:
       - name: Main
         run: |
           pwd
+          chmod +x sh/121.sh
+          ./sh/121.sh
+
+
+      - name: Main
+        run: |
+          pwd
           chmod +x sh/123.sh
           ./sh/123.sh
                 
@@ -222,12 +229,6 @@ jobs:
           pwd
           chmod +x sh/125.sh
           ./sh/125.sh
-
-      - name: Main
-        run: |
-          pwd
-          chmod +x sh/131.sh
-          ./sh/131.sh
 
       - name: Main
         run: |
