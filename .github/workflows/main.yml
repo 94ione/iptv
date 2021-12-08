@@ -257,7 +257,7 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch7.sh
+          chmod +x sh/297.sh
           ./sh/297.sh
 
       - name: Main
